@@ -68,6 +68,9 @@ header{
 }
 
 /*link*/
+a{
+  background-color:#007ab3;
+}
 a:link {
   color: white;
 }
